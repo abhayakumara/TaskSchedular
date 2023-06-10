@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TaskSchedular/static/css/main.e7c50cbc.css",
+    "main.js": "/TaskSchedular/static/js/main.4a4bbfbc.js",
+    "index.html": "/TaskSchedular/index.html",
+    "main.e7c50cbc.css.map": "/TaskSchedular/static/css/main.e7c50cbc.css.map",
+    "main.4a4bbfbc.js.map": "/TaskSchedular/static/js/main.4a4bbfbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7c50cbc.css",
+    "static/js/main.4a4bbfbc.js"
+  ]
+}
